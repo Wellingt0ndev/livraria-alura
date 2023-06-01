@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto feito no curso da Alura : API Rest com Express e MongoDB </h1>
 
-Nesse projeto criamos uma API de uma livraria para adicionar, remover, consultar livros, onde todos os dados dos livros ficam salvos no MOngoDB 
+Nesse projeto criamos uma API de uma livraria para adicionar, remover, consultar livros, onde todos os dados dos livros ficam salvos no MongoDB 
 
 
 # 🛠️ Abrir e rodar o projeto
